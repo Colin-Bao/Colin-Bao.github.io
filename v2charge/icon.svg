@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">V2Charge</title>
+  <desc id="desc">A blue location pin with a yellow lightning bolt on a transparent background.</desc>
+  <path id="location-pin" fill="#0066BE" fill-rule="evenodd" d="M627 131C407.743 131 230 308.743 230 528C230 632 269 727 333 809L572 1095C600 1132 654 1132 682 1095L921 809C985 727 1024 632 1024 528C1024 308.743 846.257 131 627 131ZM894 518C894 371.645 774.46 253 627 253C479.54 253 360 371.645 360 518C360 664.355 479.54 783 627 783C774.46 783 894 664.355 894 518Z" clip-rule="evenodd"/>
+  <path id="lightning-bolt" fill="#FFC31A" d="M663 320C676 304 702 306 696 333L658 475H754C775 475 785 493 770 512L597 718C581 738 555 732 562 707L598 576H497C479 576 471 562 483 547L663 320Z"/>
+</svg>
